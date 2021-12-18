@@ -1,0 +1,6 @@
+[submodule "package/luci-app-minieap"]
+	path = package/luci-app-minieap
+	url = https://github.com/ApertureG/luci-app-minieap.git
+[submodule "package/minieap"]
+	path = package/minieap
+	url = https://github.com/ApertureG/minieap-openwrt.git
